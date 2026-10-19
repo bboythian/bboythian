@@ -3,35 +3,48 @@
 ### Full-Stack Software Developer
 **React · Angular · TypeScript · Node.js · Java / Spring Boot**
 
-I'm a software developer based in **Cuenca, Ecuador (UTC-5)**. I build web and mobile applications, develop RESTful APIs, and deploy software to Linux-based environments.
+I'm a software developer based in **Cuenca, Ecuador (UTC-5)**. I build web and mobile applications, integrate REST APIs, and deploy applications to Linux-based environments.
 
-My experience includes:
-- **Full-stack development:** responsive interfaces, backend services, and database integration.
-- **Enterprise software:** modernization of banking interfaces and business process automation.
-- **Mobile & research:** Flutter applications and client-server integrations with external AI services.
-- **Deployment:** Docker, Nginx, Linux, VPS hosting, and DNS configuration.
+My experience includes frontend and backend development, banking interface modernization, corporate process automation, and university research software.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Area | Technologies |
 | --- | --- |
 | Frontend | React, Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap |
-| Backend | Node.js, Express.js, Java, Spring Boot, RESTful APIs |
+| Backend | Node.js, Express.js, Java, Spring Boot, REST APIs |
 | Databases | PostgreSQL, MySQL, MongoDB |
 | Mobile | Flutter, Dart |
 | Infrastructure | Docker, Linux, Nginx, VPS |
 | Tools | Git, GitHub, Postman |
 
-### 💻 Portfolio & Projects
+## 💻 Selected Work
 
-I'm currently organizing and documenting selected projects for this profile. Some of my professional and university work cannot be shared publicly because of confidentiality or ownership considerations.
+### Educational Institute Website — Transformación Solidaria
+**React · TypeScript · Vite · CSS Modules**
 
-**More project documentation and demos coming soon.**
+Independently developed a multi-page educational institute website with academic program pages, reusable UI components, responsive layouts, and contact integrations.
 
-### 🤝 Let's Connect
+*Project documentation is maintained in a private repository while publication permissions and assets are reviewed.*
 
-- **LinkedIn:** [christian-toapanta](https://www.linkedin.com/in/christian-toapanta-447b58275/)
-- **Email:** [chris.xavier.toapanta@gmail.com](mailto:chris.xavier.toapanta@gmail.com)
-- **Location:** Ecuador · UTC-5
+### University Research — Mobile Usage Monitoring
+**Flutter · Dart · Node.js · Express · MongoDB**
 
-*Open to remote opportunities in full-stack, frontend, and backend development.*
+Contributed to university research software involving a mobile application, collection of device-usage information, and a server-side reporting prototype.
+
+*Institutional source code and research-related material are not currently featured as public portfolio examples. Disclosure and privacy review are pending.*
+
+### Corporate VPN Workflow Automation
+**Python · Node.js · APIs · OpenSSL**
+
+Worked on technical prototypes for automating VPN provisioning workflows, including API sessions, user lifecycle operations, and certificate-related processing during an internship.
+
+*Code and infrastructure are not promoted here because institutional authorization and security remediation must be completed first.*
+
+## 🤝 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/christian-toapanta-447b58275/)
+- [Email](mailto:chris.xavier.toapanta@gmail.com)
+- Ecuador · UTC-5
+
+*Open to remote full-stack, frontend, and backend opportunities.*
